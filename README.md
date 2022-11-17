@@ -1,5 +1,6 @@
 # plant
 Android Game - In Development
+Set for development on x86 on Windows 10
 
 Currently no code if you are looking
 
