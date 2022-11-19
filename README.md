@@ -4,7 +4,7 @@
 
 ### Set for development on x86 on Windows 10
 
-+ Unity willll be used in conjuction with C#
++ Unity will be used in conjuction with C#
 
 ### Currently no code if you are looking
 
