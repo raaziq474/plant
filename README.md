@@ -4,7 +4,7 @@
 
 ### Set for development on x86 on Windows 10
 
-+ Using Android Studio and Java, Kotlin to be considered
++ Unity willll be used in conjuction with C#
 
 ### Currently no code if you are looking
 
