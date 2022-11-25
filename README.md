@@ -12,3 +12,5 @@
 + Update 1: Curently delayed will be up within 24 hours
 + Update 2: Unity Project has been made, no code has been written in C# -> only in Unity  
 + Update 3: Main menu is being worked on and will be uploaded first before any other 
++ Update 4: Main menu is half baked, using stand in assets
++ Update 5: First scripts written for main menu play menu -> animations still need to be added 
