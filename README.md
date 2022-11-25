@@ -14,4 +14,4 @@
 + Update 3: Main menu is being worked on and will be uploaded first before any other 
 + Update 4: Main menu is made half baked, using stand in assets
 + Update 5: First scripts written for main menu play button -> animations still need to be added 
-+ Update 6: Once Main menu is completed all assets relating and scripts will be added 
++ Update 6: Once Main menu is completed all assets relating and scripts will be added to repo
