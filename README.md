@@ -15,4 +15,4 @@
 + Update 4: Main menu is made half baked, using stand in assets
 + Update 5: First scripts written for main menu play button -> animations still need to be added 
 + Update 6: Once Main menu is completed all assets relating and scripts will be added to repo
-+ Update 7: No progress made
++ Update 7: Negative progress made
