@@ -16,3 +16,4 @@
 + Update 5: First scripts written for main menu play button -> animations still need to be added 
 + Update 6: Once Main menu is completed all assets relating and scripts will be added to repo
 + Update 7: Negative progress made
++ Update 8: Main Menu Successfully completed, revisions still to be made
