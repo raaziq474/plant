@@ -17,3 +17,5 @@
 + Update 6: Once Main menu is completed all assets relating and scripts will be added to repo
 + Update 7: Negative progress made
 + Update 8: Main Menu Successfully completed, revisions still to be made
++ Update 9: Project has been put on hold for a while -> until 09/01/2023
++ Update 10: Resumption of project imminent, detailes to be revealed in coming days.
